@@ -1,0 +1,6 @@
+/Users/dmitriy_makarov/yandex_practikum/IMG/ImgConverterDebug/CMakeFiles/imgconv.dir
+/Users/dmitriy_makarov/yandex_practikum/IMG/ImgConverterDebug/CMakeFiles/edit_cache.dir
+/Users/dmitriy_makarov/yandex_practikum/IMG/ImgConverterDebug/CMakeFiles/rebuild_cache.dir
+/Users/dmitriy_makarov/yandex_practikum/IMG/ImgConverterDebug/ImgLibBuildDir/CMakeFiles/ImgLib.dir
+/Users/dmitriy_makarov/yandex_practikum/IMG/ImgConverterDebug/ImgLibBuildDir/CMakeFiles/edit_cache.dir
+/Users/dmitriy_makarov/yandex_practikum/IMG/ImgConverterDebug/ImgLibBuildDir/CMakeFiles/rebuild_cache.dir
